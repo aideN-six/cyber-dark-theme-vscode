@@ -7,3 +7,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release v1.0.0 by aideN-six
+- v1.0.1 added screenshot and uploaded icon
