@@ -1,0 +1,44 @@
+{
+  "name": "punk-hacking",
+  "displayName": "Punk Hacking Theme",
+  "description": "dark-cyber-hacking-theme by aideN-six",
+  "version": "1.0",
+  "publisher": "Noah Aiden",
+  "author": {
+		"name": "Noah Aiden Rocha",
+		"email": "aidenoah@zoho.com"
+  },
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/aideN-six",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aideN-six/cyber-dark-theme-vscode"
+	},
+
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "themes",
+    "customize",
+    "cyber",
+    "dark",
+    "hacking",
+    "vibrant"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "punk-hacking-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/punk-hacking-theme-color-theme.json"
+
+      
+      }
+    ]
+  }
+}
