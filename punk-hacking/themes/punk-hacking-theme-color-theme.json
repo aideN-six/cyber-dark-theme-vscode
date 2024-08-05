@@ -22,7 +22,7 @@
 		"tab.inactiveForeground": "#00eaff",
 		"tab.inactiveBackground": "#14004b", //tab inativa
 		"statusBar.debuggingBackground": "#001eff48",
-		"editorIndentGuide.background": "#01445ea2",
+		"editorIndentGuide.background1": "#01445ea2",
 		"editorGroupHeader.tabsBackground": "#001eff48",
 		"scrollbarSlider.background": "#001eff48",
 		"scrollbarSlider.hoverBackground": "#001eff48",
@@ -46,13 +46,13 @@
 		"editorLineNumber.foreground": "#01d9ff", //numeros das linhas
 		"editor.selectionBackground": "#0609c5a2",
 		"editor.selectionHighlightBackground": "#4840b380",
-		"editor.wordHighlightBackground": "#4840b3",
-		"editor.wordHighlightStrongBackground": "#0596b7",
+		"editor.wordHighlightBackground": "#4840b325",
+		"editor.wordHighlightStrongBackground": "#0596b723",
 		"editor.findMatchBackground": "#f200ffd7",
 		"editor.findMatchHighlightBackground": "#1e00ff77",
-		"editor.hoverHighlightBackground": "#4840b3",
+		"editor.hoverHighlightBackground": "#4840b333",
 		"editorLink.activeForeground": "#3B79C7",
-		"editor.rangeHighlightBackground": "#0e07d4",
+		"editor.rangeHighlightBackground": "#0e07d43d",
 		"editorRuler.foreground": "#0609c5a2", //cor das linhas do terminal
 		"editorCodeLens.foreground": "#0609c5a2",
 		"editorBracketMatch.background": "#0609c5a2",
