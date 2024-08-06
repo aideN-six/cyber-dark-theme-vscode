@@ -2,7 +2,7 @@
   "name": "punk-hacking",
   "displayName": "Punk Hacking Theme",
   "description": "dark-cyber-hacking-theme by aideN-six",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "aidenoah",
   "author": {
 		"name": "Noah Aiden Rocha",
@@ -13,6 +13,7 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/aideN-six",
+  "icon":"icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/aideN-six/cyber-dark-theme-vscode"
