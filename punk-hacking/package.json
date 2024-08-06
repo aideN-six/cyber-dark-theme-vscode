@@ -1,8 +1,8 @@
 {
   "name": "punk-hacking",
-  "displayName": "Punk Hacking Theme",
+  "displayName": "Punk Hacking Retrowave Theme",
   "description": "dark-cyber-hacking-theme by aideN-six",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "publisher": "aidenoah",
   "author": {
 		"name": "Noah Aiden Rocha",
@@ -32,6 +32,7 @@
     "colorful",
     "blue",
     "vibrant",
+    "retrowave",
     "tema",
     "vibrante",
     "escuro",
