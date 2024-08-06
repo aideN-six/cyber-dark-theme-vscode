@@ -8,13 +8,13 @@
 
 Dark theme for those who like vibrant and colorful colors. 
 
-Code in a futuristic terminal with a cyber hacking theme. 
+Code in a futuristic terminal with a cyber hacking and retrowave theme. 
 
 **Enjoy!**
 
 Tema escuro para quem gosta de cores vibrantes e coloridas. 
 
-Programe em um terminal futurístico com temática cyber hacking. 
+Programe em um terminal futurístico com temática cyber hacking e retrowave.
 
 **Aproveite!**
 
